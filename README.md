@@ -2,4 +2,11 @@
 # arrayListsAndStudentGradesData
 
 This is your README.md file where you can write your reflection response for this programming project.
+/*
+ * Name: Erica Hernandez
+ * Date: 06/30/2026
+ * Program: Course Grades Analyzer - reads CSV grade totals and analyzes A percentages.
+ */
 
+* Refelction Response*
+I think the easiest part of this lab for me was being able to set up the CSV file to be read. I also found that setting up the setters/getters in the Course program was easy. I still think I need more practice writing the code with the CSV file. 
